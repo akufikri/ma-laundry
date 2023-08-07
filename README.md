@@ -1,3 +1,7 @@
+## PREVIEW WEB ##
+<img width="1440" alt="Screen Shot 2023-08-07 at 14 53 48" src="https://github.com/akufikri/ma-laundry/assets/108182945/ee6c5dc7-d3f1-4c3c-8163-7105bd7253ec">
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
